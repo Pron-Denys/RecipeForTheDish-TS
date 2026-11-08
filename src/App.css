@@ -1,0 +1,10 @@
+.conteinerCards {
+  display: flex;
+  flex-direction: row;
+}
+
+.conteiner {
+  margin: 20px 70px 20px 70px;
+  border: none;
+}
+

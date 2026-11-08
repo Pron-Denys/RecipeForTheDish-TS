@@ -1,0 +1,12 @@
+.cardPhoto {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+    padding: 50px;
+}
+
+.photo {
+    background-color: rgb(200, 200, 200);
+    padding: 40px;
+    border-radius: 1%;
+}

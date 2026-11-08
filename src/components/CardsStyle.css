@@ -1,0 +1,31 @@
+.card {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    font-size: 20px;
+    margin-right: 100px;
+    margin-bottom: 40px;
+    background-color: rgba(225, 6, 6, 0.771);
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 1%;
+    margin-left: 100px;
+}
+
+.card td {
+    text-align: start;
+}
+
+.card2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.card2 td {
+    text-align: start;
+}
+
+.card2 th {
+    color: rgba(225, 6, 6, 0.771);
+    text-align: start;
+}

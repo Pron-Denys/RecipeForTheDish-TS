@@ -1,0 +1,13 @@
+.header {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    background-color: rgba(225, 6, 6, 0.771);
+    padding: 50px;
+    border-radius: 1.5%;
+    box-shadow: 1px 1px black;
+}
+
+h1 {
+    color:aliceblue;
+}
